@@ -4,6 +4,6 @@ About the book: [Python Machine Learning Blueprints](https://www.packtpub.com/bi
 
 It contains all the supporting project files necessary to work through the book from start to finish.
 
-英文版代码Github链接：https://github.com/PacktPublishing/Python-Machine-Learning-Blueprints
+英文版官方代码Github链接：https://github.com/PacktPublishing/Python-Machine-Learning-Blueprints
 
-按照书籍内容添加了中文说明。
+按照书籍内容添加了中文说明，并修改了一些代码上的更新变化（如python,sklearn一些模块的弃用、更新等）。
